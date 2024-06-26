@@ -1,0 +1,3 @@
+Attempt the following by writing C++ code and using conditional operators
+determine:
+ Whether the character entered through the keyboard is a lower-case alphabet or not.
